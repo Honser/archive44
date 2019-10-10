@@ -2,7 +2,7 @@
 layout: post
 title:  "Slotted ALOHA Protocol"
 date:   2015-04-26 19:00:00 -0600
-categories: jekyll update
+categories: C Project
 ---
 	| C |
 

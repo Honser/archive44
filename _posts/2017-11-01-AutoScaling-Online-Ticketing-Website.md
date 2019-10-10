@@ -2,7 +2,7 @@
 layout: post
 title:  "AutoScaling Online Ticketing Website"
 date:   2017-11-01 16:16:01 -0600
-categories: jekyll update
+categories: NodeJS CSS AWS Project
 ---
 	| NodeJS | jQuery | Bootstrap CSS | 
 

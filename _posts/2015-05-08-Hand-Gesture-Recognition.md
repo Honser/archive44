@@ -2,7 +2,7 @@
 layout: post
 title:  "Hand Gesture Recognition"
 date:   2015-05-08 19:00:00 -0600
-categories: jekyll update
+categories: C++ OpenCV Project
 ---
 	| C++ | OpenCV |
 
