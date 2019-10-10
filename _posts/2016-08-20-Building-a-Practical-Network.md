@@ -2,7 +2,7 @@
 layout: post
 title:  "Building a Practical Network"
 date:   2016-08-20 19:00:00 -0600
-categories: Network Switch Project
+categories: Network Project
 ---
         | Cisco IOS Command |
 
